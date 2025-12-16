@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi 👋 I'm Darvesh  
 
-<!--
-**DARVESH214/darvesh214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps / DevSecOps Learner from India 🇮🇳  
+I believe in learning by doing and building things step by step.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧠 About Me
+- Passionate about automation and cloud infrastructure
+- Strong foundation in Linux, Shell Scripting, and Ansible
+- Currently learning CI/CD using GitHub Actions
+- Focused on becoming a production-ready DevOps Engineer
+
+---
+
+### 🔧 Skills & Tools
+- 🐧 Linux  
+- 🖥️ Shell Scripting  
+- ⚙️ Ansible  
+- 🐳 Docker (learning)  
+- 🔁 GitHub Actions (CI/CD)  
+- ☁️ AWS (learning path)
+
+---
+
+### 📂 What You’ll Find Here
+- Server automation using Ansible  
+- Shell scripts for system monitoring  
+- CI/CD experiments with GitHub Actions  
+- Step-by-step DevOps learning projects  
+
+---
+
+### 🚀 Current Focus
+- GitHub Actions (CI/CD pipelines)  
+- Automating deployments  
+- Strengthening DevOps fundamentals  
+
+---
+
+### 💡 DevOps Mindset
+> “Automate everything you can,  
+so humans can focus on what matters.”
+
+---
+
+📈 Learning. Building. Improving.  
+
 -->
