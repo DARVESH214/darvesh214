@@ -8,8 +8,27 @@
 
 ## 🔗 Connect with Me
 
-* 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
-* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge\&logo=gmail)](mailto:yourmail@gmail.com)
+
+---
+
+## 💡 About Me
+
+I am building hands-on experience in DevOps and Cloud Engineering using AWS, Kubernetes, and Terraform.
+I enjoy automating deployments, managing infrastructure, and working on real-world DevOps workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+* ☁️ Cloud: AWS
+* ⚙️ CI/CD: Jenkins, GitHub Actions
+* 🐳 Containers: Docker, Kubernetes
+* 🏗️ IaC: Terraform, Ansible
+* 💻 OS: Linux
+* 📊 Monitoring: Prometheus, Grafana
+
 
 ---
 
