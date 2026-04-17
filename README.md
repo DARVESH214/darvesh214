@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darvesh
 
-## 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker
+## 🚀 aspiring DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker
 
 🌱 Passionate about building cloud-native applications, automating infrastructure, and creating CI/CD pipelines.
 
@@ -47,6 +47,25 @@ I also built a server health monitoring system to track system performance and i
 🏗️ IaC: Terraform (EKS provisioning, infrastructure setup)
 💻 OS: Linux (basic commands, scripting)
 📊 Monitoring: Basic system monitoring (CPU, memory, disk tracking)
+
+---
+---
+
+## 🧰 Skills Showcase
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,ansible,git,github,vscode,prometheus,grafana" />
+</p>
+
+---
+
+## 🔧 What I Do
+
+* Build and manage infrastructure on AWS
+* Create CI/CD pipelines using Jenkins and GitHub
+* Deploy containerized applications using Docker and Kubernetes
+* Automate infrastructure using Terraform
+* Monitor system performance using custom scripts
 
 ---
 
