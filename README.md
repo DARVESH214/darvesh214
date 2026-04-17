@@ -33,20 +33,20 @@ I enjoy automating deployments, managing infrastructure, and working on real-wor
 ---
 
 ## 💡 About Me
+I am a DevOps learner working on real-time projects like AWS EKS deployments, CI/CD pipelines using Jenkins, and infrastructure automation with Terraform.
+I have hands-on experience in containerizing applications using Docker and deploying them on Kubernetes.
+I also built a server health monitoring system to track system performance and improve reliability.
 
-I am building hands-on experience in DevOps and Cloud Engineering using AWS, Kubernetes, and Terraform.
-I enjoy automating deployments, managing infrastructure, and working on real-world DevOps workflows.
 
 ---
 
 ## 🛠️ Tech Stack
-
-* ☁️ Cloud: AWS
-* ⚙️ CI/CD: Jenkins, GitHub Actions
-* 🐳 Containers: Docker, Kubernetes
-* 🏗️ IaC: Terraform, Ansible
-* 💻 OS: Linux
-* 📊 Monitoring: Prometheus, Grafana
+☁️ Cloud: AWS (EKS, EC2 basics)
+⚙️ CI/CD: Jenkins (pipeline creation, GitHub integration)
+🐳 Containers: Docker (build & run images), Kubernetes (deployments, services, ingress)
+🏗️ IaC: Terraform (EKS provisioning, infrastructure setup)
+💻 OS: Linux (basic commands, scripting)
+📊 Monitoring: Basic system monitoring (CPU, memory, disk tracking)
 
 ---
 
