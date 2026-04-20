@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darvesh
 
-## 🚀 aspiring DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker
+## 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker
 
 🌱 Passionate about building cloud-native applications, automating infrastructure, and creating CI/CD pipelines.
 
